@@ -19,7 +19,7 @@ Used node js for server side development i.e API
 Used mongo db for database
 # frontEnd Setup
 
-run npm start inside project location
+run npm install inside project location
 eg: my project location is C:\Users\smamidip\Desktop\sms
 
 C:\Users\smamidip\Desktop\sms>npm install
